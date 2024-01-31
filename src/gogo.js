@@ -214,7 +214,7 @@ async function GogoDLScrapper(animeid, cookie) {
 
 async function getGogoAuthKey() {
     const response = await fetch(
-        "https://api.github.com/repos/TechShreyash/TechShreyash/contents/gogoCookie.txt",
+        "https://github.com/Anispace/api/blob/main/gogoCookie.txt",
         {
             headers: {
                 "User-Agent":
