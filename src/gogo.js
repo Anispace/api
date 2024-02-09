@@ -214,7 +214,7 @@ async function GogoDLScrapper(animeid, cookie) {
 
 async function getGogoAuthKey() {
     const response = await fetch(
-        "https://github.com/Anispace/api/blob/main/gogoCookie.txt",
+        "https://github.com/TechShreyash/TechShreyash/blob/main/gogoCookie.txt",
         {
             headers: {
                 "User-Agent":
@@ -236,6 +236,6 @@ export {
     GogoDLScrapper,
     getGogoAuthKey,
 };
-// getEpisode("horimiya-episode-1").then((data) => {
+// getEpisode("Naruto-episode-1").then((data) => {
 //     console.log(data.stream.sources);
 // });
