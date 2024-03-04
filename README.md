@@ -1,3 +1,6 @@
+# the api does not work anymore and we do not have any motivation/intention to maintain it any further
+
+
 <h1>Anime API by Anispace</h1>
     <p>Base URL: <a href="https://api.anispace.workers.dev/" target="_blank">https://api.anispace.workers.dev/</a></p>
 
